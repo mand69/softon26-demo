@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// ik ben isis en ik ben een sukkel
 int main(void)
 {
     xTaskCreate(
